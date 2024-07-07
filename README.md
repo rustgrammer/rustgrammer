@@ -6,11 +6,9 @@ const info = {
   isCriticalThinker: true,
   isProblemSolver: true,
   skills: ["Javascript", "Django", "Figma", "Python", "CSS", "React"],
-
-  isHireable() {
-    return (
-      this.skills.length >= 5 && this.isProblemSolver && this.isCriticalThinker
-    );
+  status: "unemployed",
+  canBeHired() {
+    return status == "unemployed" ? true : false;
   },
 };
 ```
