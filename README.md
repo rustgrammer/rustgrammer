@@ -1,9 +1,1 @@
-```javascript
-const info = {
-  name: "Muhammad Umer",
-  age: 19,
-  role: "Designer and Frontend developer",
-  isCriticalThinker: true,
-  isProblemSolver: true,
-};
-```
+Student by day, CEO in evening, hacker at night.
