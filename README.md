@@ -1,1 +1,1 @@
-Student by day, CEO in evening, hacker at night.
+Coder and designer.
